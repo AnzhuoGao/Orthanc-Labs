@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrone_detection_core.a CMakeFiles/drone_detection_core.dir/src/core/fast_voxel_detector.cpp.o CMakeFiles/drone_detection_core.dir/src/core/spatial_index.cpp.o CMakeFiles/drone_detection_core.dir/src/core/motion_detector.cpp.o CMakeFiles/drone_detection_core.dir/src/rtsp/stream_processor.cpp.o CMakeFiles/drone_detection_core.dir/src/atak/cot_sender.cpp.o CMakeFiles/drone_detection_core.dir/src/config/config_manager.cpp.o
+/usr/bin/ranlib libdrone_detection_core.a
