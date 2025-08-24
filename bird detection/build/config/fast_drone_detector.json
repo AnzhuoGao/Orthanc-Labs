@@ -1,0 +1,58 @@
+{
+  "atak": {
+    "compress_messages": false,
+    "connection_timeout_ms": 5000,
+    "max_retry_attempts": 3,
+    "min_confidence_threshold": 0.30000001192092896,
+    "send_timeout_ms": 1000,
+    "send_velocity_data": true,
+    "sensor_callsign": "DRONE-DETECTOR-01",
+    "sensor_location": [
+      38.88949966430664,
+      -77.03520202636719,
+      0.0
+    ],
+    "server_ip": "127.0.0.1",
+    "server_port": 8087,
+    "update_interval_ms": 1000
+  },
+  "cameras": [],
+  "detector": {
+    "cluster_distance": 1.5,
+    "grid_origin": [
+      -20.0,
+      -20.0,
+      0.0
+    ],
+    "grid_size": [
+      200,
+      200,
+      100
+    ],
+    "intensity_threshold": 0.30000001192092896,
+    "max_tracking_age_ms": 5000,
+    "max_tracking_distance": 5.0,
+    "max_voxels_per_cluster": 2000,
+    "min_voxels_per_cluster": 8,
+    "use_simd": true,
+    "voxel_size": 0.20000000298023224,
+    "worker_threads": 0
+  },
+  "processing": {
+    "background_history": 500,
+    "background_learning_rate": 0.0010000000474974513,
+    "background_threshold": 25.0,
+    "enable_gpu_acceleration": true,
+    "frame_skip": 1,
+    "max_ray_distance_voxels": 150,
+    "motion_threshold": 15.0,
+    "voxel_accumulation_rate": 0.10000000149011612,
+    "voxel_decay_rate": 0.949999988079071
+  },
+  "system": {
+    "enable_performance_logging": true,
+    "enable_test_mode": true,
+    "log_level": "INFO",
+    "performance_report_interval_sec": 10
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "visualization": {
+    "enabled": true,
+    "zmq_streaming": {
+      "enabled": true,
+      "address": "tcp://127.0.0.1:5556",
+      "port": 5556,
+      "compression": {
+        "enabled": true,
+        "level": 6
+      }
+    },
+    "file_output": {
+      "enabled": true,
+      "directory": "./voxel_data",
+      "save_interval_ms": 1000,
+      "max_files": 1000,
+      "auto_cleanup": true
+    },
+    "performance": {
+      "max_queue_size": 100,
+      "drop_on_overflow": true,
+      "worker_threads": 1
+    },
+    "real_time_viewer": {
+      "auto_start": false,
+      "threshold": 0.3,
+      "window_size": [1400, 900],
+      "camera": {
+        "initial_position": [0.0, 0.0, 50.0],
+        "movement_speed": 2.0,
+        "mouse_sensitivity": 0.2
+      },
+      "display": {
+        "show_grid": true,
+        "show_axes": true,
+        "show_trails": true,
+        "trail_length": 50,
+        "background_color": [0.05, 0.05, 0.1, 1.0]
+      }
+    },
+    "static_analysis": {
+      "screenshot_directory": "./screenshots",
+      "default_threshold": 0.3,
+      "default_percentile": 99.0,
+      "clustering": {
+        "enabled": true,
+        "epsilon": 2.0,
+        "min_samples": 5
+      },
+      "export_formats": {
+        "ply": true,
+        "numpy": false
+      }
+    }
+  }
+} 

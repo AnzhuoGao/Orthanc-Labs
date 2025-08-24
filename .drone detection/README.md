@@ -1,7 +1,7 @@
-# Orthanc Labs - Bird Detection System
+# Orthanc Labs - Fast Drone Detection System
 ## Configuration Guide
 
-A high-performance, real-time bird detection system optimized for wildlife monitoring and conservation. This guide provides detailed documentation for configuring the system.
+A high-performance, real-time drone detection system optimized for speed and accuracy. This guide provides detailed documentation for configuring the system.
 
 ---
 
@@ -377,3 +377,22 @@ The main launcher supports multiple options for different use cases:
 | Raspberry Pi 4 | 45ms | 38 MB | 50m × 50m × 25m |
 
 ---
+
+## 📝 **License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 **Contributing**
+
+We welcome contributions! Please see our contributing guidelines for more information.
+
+---
+
+## 📧 **Support**
+
+For technical support and questions:
+- Email: support@orthanctech.com
+- Documentation: [docs.orthanctech.com](https://docs.orthanctech.com)
+- Issues: GitHub Issues 

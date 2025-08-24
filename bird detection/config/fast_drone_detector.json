@@ -1,0 +1,61 @@
+{
+  "detector": {
+    "grid_size": [200, 200, 100],
+    "voxel_size": 0.2,
+    "grid_origin": [-20.0, -20.0, 0.0],
+    "intensity_threshold": 0.3,
+    "cluster_distance": 1.5,
+    "min_voxels_per_cluster": 8,
+    "max_voxels_per_cluster": 2000,
+    "max_tracking_distance": 5.0,
+    "max_tracking_age_ms": 5000,
+    "use_simd": true,
+    "worker_threads": 0
+  },
+  "processing": {
+    "motion_threshold": 15.0,
+    "voxel_accumulation_rate": 0.1,
+    "voxel_decay_rate": 0.95,
+    "frame_skip": 1,
+    "enable_gpu_acceleration": true,
+    "max_ray_distance_voxels": 150,
+    "background_learning_rate": 0.001,
+    "background_history": 500,
+    "background_threshold": 25.0
+  },
+  "atak": {
+    "server_ip": "127.0.0.1",
+    "server_port": 8087,
+    "sensor_callsign": "DRONE-DETECTOR-01",
+    "sensor_location": [38.8895, -77.0352, 0.0],
+    "update_interval_ms": 1000,
+    "min_confidence_threshold": 0.3,
+    "send_velocity_data": true,
+    "compress_messages": false,
+    "connection_timeout_ms": 5000,
+    "send_timeout_ms": 1000,
+    "max_retry_attempts": 3
+  },
+  "cameras": [
+    {
+      "camera_id": 0,
+      "rtsp_url": "rtsp://admin:password@192.168.1.100:554/live",
+      "position": [0.0, 0.0, 3.0],
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "fov_horizontal": 1.047,
+      "fov_vertical": 0.785,
+      "focal_length_x": 800.0,
+      "focal_length_y": 800.0,
+      "principal_x": 320.0,
+      "principal_y": 240.0
+    }
+  ],
+  "system": {
+    "enable_test_mode": true,
+    "enable_performance_logging": true,
+    "log_level": "INFO",
+    "performance_report_interval_sec": 10
+  }
+} 

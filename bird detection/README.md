@@ -377,3 +377,22 @@ The main launcher supports multiple options for different use cases:
 | Raspberry Pi 4 | 45ms | 38 MB | 50m × 50m × 25m |
 
 ---
+
+## 📝 **License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 **Contributing**
+
+We welcome contributions! Please see our contributing guidelines for more information.
+
+---
+
+## 📧 **Support**
+
+For technical support and questions:
+- Email: support@orthanctech.com
+- Documentation: [docs.orthanctech.com](https://docs.orthanctech.com)
+- Issues: GitHub Issues 
