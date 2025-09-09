@@ -1,0 +1,17 @@
+Starting Orthanc Labs Bird Detection Visualizer...
+==================================================
+Controls:
+  Rotate: Click and drag
+  Zoom: Scroll wheel
+  Reset view: 'r'
+  Adjust threshold: +/-
+  Toggle velocity vectors: 'v'
+  Toggle acceleration vectors: 'a'
+  Toggle camera positions: 'c'
+  Toggle camera FOV: 'g'
+  Quit: 'q' or close window
+Mode: Demo
+==================================================
+Listening for ZMQ data on port 5556...
+View reset
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°

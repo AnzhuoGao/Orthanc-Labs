@@ -1,0 +1,99 @@
+
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                 Orthanc Technologies                          ║
+    ║              Fast Drone Detection System                      ║
+    ║                     Version 1.0.0                            ║
+    ╚═══════════════════════════════════════════════════════════════╝
+    
+    Optimized for high-performance real-time drone detection
+    Features:
+    • SIMD-accelerated voxel processing
+    • Multi-camera RTSP stream support
+    • Real-time ATAK integration
+    • Advanced clustering algorithms
+    • Hardware-optimized implementations
+    
+
+Configuration loaded successfully.
+Test mode: Disabled
+Log level: INFO
+Cameras configured: 5
+
+Starting ATAK integration...
+ATAK CoT sender started (stub)
+ATAK integration started successfully.
+Added camera 0 (stub)
+Camera 0 configured.
+Added camera 1 (stub)
+Camera 1 configured.
+Added camera 2 (stub)
+Camera 2 configured.
+Added camera 3 (stub)
+Camera 3 configured.
+Added camera 4 (stub)
+Camera 4 configured.
+
+Starting real-time stream processing...
+Started stream processing (stub)
+Stream processing started successfully.
+
+Drone detection system is running.
+Press Ctrl+C to stop.
+
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 0
+  Messages failed: 0
+  Messages queued: 0
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 0
+  Messages failed: 0
+  Messages queued: 0
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 1
+  Messages failed: 0
+  Messages queued: 1
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 1
+  Messages failed: 0
+  Messages queued: 1
+  Connected: Yes
+Current detections: 0
+================================

@@ -1,0 +1,4049 @@
+
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                 Orthanc Technologies                          ║
+    ║              Fast Drone Detection System                      ║
+    ║                     Version 1.0.0                            ║
+    ╚═══════════════════════════════════════════════════════════════╝
+    
+    Optimized for high-performance real-time drone detection
+    Features:
+    • SIMD-accelerated voxel processing
+    • Multi-camera RTSP stream support
+    • Real-time ATAK integration
+    • Advanced clustering algorithms
+    • Hardware-optimized implementations
+    
+
+Configuration loaded successfully.
+Test mode: Disabled
+Log level: INFO
+Cameras configured: 5
+
+Starting ATAK integration...
+ATAK CoT sender started (stub)
+ATAK integration started successfully.
+Added camera 0 (stub)
+Camera 0 configured.
+Added camera 1 (stub)
+Camera 1 configured.
+Added camera 2 (stub)
+Camera 2 configured.
+Added camera 3 (stub)
+Camera 3 configured.
+Added camera 4 (stub)
+Camera 4 configured.
+
+Starting real-time stream processing...
+Started stream processing (stub)
+Stream processing started successfully.
+
+Drone detection system is running.
+Press Ctrl+C to stop.
+
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 0
+  Messages failed: 0
+  Messages queued: 0
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 0
+  Messages failed: 0
+  Messages queued: 0
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 1
+  Messages failed: 0
+  Messages queued: 1
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 1
+  Messages failed: 0
+  Messages queued: 1
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 1
+  Messages failed: 0
+  Messages queued: 1
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 2
+  Messages failed: 0
+  Messages queued: 2
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 2
+  Messages failed: 0
+  Messages queued: 2
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 2
+  Messages failed: 0
+  Messages queued: 2
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 3
+  Messages failed: 0
+  Messages queued: 3
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 3
+  Messages failed: 0
+  Messages queued: 3
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 3
+  Messages failed: 0
+  Messages queued: 3
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 4
+  Messages failed: 0
+  Messages queued: 4
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 4
+  Messages failed: 0
+  Messages queued: 4
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 4
+  Messages failed: 0
+  Messages queued: 4
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 5
+  Messages failed: 0
+  Messages queued: 5
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 5
+  Messages failed: 0
+  Messages queued: 5
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 5
+  Messages failed: 0
+  Messages queued: 5
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 6
+  Messages failed: 0
+  Messages queued: 6
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 6
+  Messages failed: 0
+  Messages queued: 6
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 6
+  Messages failed: 0
+  Messages queued: 6
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 7
+  Messages failed: 0
+  Messages queued: 7
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 7
+  Messages failed: 0
+  Messages queued: 7
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 7
+  Messages failed: 0
+  Messages queued: 7
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 8
+  Messages failed: 0
+  Messages queued: 8
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 8
+  Messages failed: 0
+  Messages queued: 8
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 8
+  Messages failed: 0
+  Messages queued: 8
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 9
+  Messages failed: 0
+  Messages queued: 9
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 9
+  Messages failed: 0
+  Messages queued: 9
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 9
+  Messages failed: 0
+  Messages queued: 9
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 10
+  Messages failed: 0
+  Messages queued: 10
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 10
+  Messages failed: 0
+  Messages queued: 10
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 10
+  Messages failed: 0
+  Messages queued: 10
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 11
+  Messages failed: 0
+  Messages queued: 11
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 11
+  Messages failed: 0
+  Messages queued: 11
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 11
+  Messages failed: 0
+  Messages queued: 11
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 12
+  Messages failed: 0
+  Messages queued: 12
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 12
+  Messages failed: 0
+  Messages queued: 12
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 12
+  Messages failed: 0
+  Messages queued: 12
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 13
+  Messages failed: 0
+  Messages queued: 13
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 13
+  Messages failed: 0
+  Messages queued: 13
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 13
+  Messages failed: 0
+  Messages queued: 13
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 14
+  Messages failed: 0
+  Messages queued: 14
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 14
+  Messages failed: 0
+  Messages queued: 14
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 14
+  Messages failed: 0
+  Messages queued: 14
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 15
+  Messages failed: 0
+  Messages queued: 15
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 15
+  Messages failed: 0
+  Messages queued: 15
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 15
+  Messages failed: 0
+  Messages queued: 15
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 16
+  Messages failed: 0
+  Messages queued: 16
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 16
+  Messages failed: 0
+  Messages queued: 16
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 16
+  Messages failed: 0
+  Messages queued: 16
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 17
+  Messages failed: 0
+  Messages queued: 17
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 17
+  Messages failed: 0
+  Messages queued: 17
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 17
+  Messages failed: 0
+  Messages queued: 17
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 18
+  Messages failed: 0
+  Messages queued: 18
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 18
+  Messages failed: 0
+  Messages queued: 18
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 18
+  Messages failed: 0
+  Messages queued: 18
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 19
+  Messages failed: 0
+  Messages queued: 19
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 19
+  Messages failed: 0
+  Messages queued: 19
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 19
+  Messages failed: 0
+  Messages queued: 19
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 20
+  Messages failed: 0
+  Messages queued: 20
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 20
+  Messages failed: 0
+  Messages queued: 20
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 20
+  Messages failed: 0
+  Messages queued: 20
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 21
+  Messages failed: 0
+  Messages queued: 21
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 21
+  Messages failed: 0
+  Messages queued: 21
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 21
+  Messages failed: 0
+  Messages queued: 21
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 22
+  Messages failed: 0
+  Messages queued: 22
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 22
+  Messages failed: 0
+  Messages queued: 22
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 22
+  Messages failed: 0
+  Messages queued: 22
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 23
+  Messages failed: 0
+  Messages queued: 23
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 23
+  Messages failed: 0
+  Messages queued: 23
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 23
+  Messages failed: 0
+  Messages queued: 23
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 24
+  Messages failed: 0
+  Messages queued: 24
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 24
+  Messages failed: 0
+  Messages queued: 24
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 24
+  Messages failed: 0
+  Messages queued: 24
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 25
+  Messages failed: 0
+  Messages queued: 25
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 25
+  Messages failed: 0
+  Messages queued: 25
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 25
+  Messages failed: 0
+  Messages queued: 25
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 26
+  Messages failed: 0
+  Messages queued: 26
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 26
+  Messages failed: 0
+  Messages queued: 26
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 26
+  Messages failed: 0
+  Messages queued: 26
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 27
+  Messages failed: 0
+  Messages queued: 27
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 27
+  Messages failed: 0
+  Messages queued: 27
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 27
+  Messages failed: 0
+  Messages queued: 27
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 28
+  Messages failed: 0
+  Messages queued: 28
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 28
+  Messages failed: 0
+  Messages queued: 28
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 28
+  Messages failed: 0
+  Messages queued: 28
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 29
+  Messages failed: 0
+  Messages queued: 29
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 29
+  Messages failed: 0
+  Messages queued: 29
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 29
+  Messages failed: 0
+  Messages queued: 29
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 30
+  Messages failed: 0
+  Messages queued: 30
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 30
+  Messages failed: 0
+  Messages queued: 30
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 30
+  Messages failed: 0
+  Messages queued: 30
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 31
+  Messages failed: 0
+  Messages queued: 31
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 31
+  Messages failed: 0
+  Messages queued: 31
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 31
+  Messages failed: 0
+  Messages queued: 31
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 32
+  Messages failed: 0
+  Messages queued: 32
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 32
+  Messages failed: 0
+  Messages queued: 32
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 32
+  Messages failed: 0
+  Messages queued: 32
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 33
+  Messages failed: 0
+  Messages queued: 33
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 33
+  Messages failed: 0
+  Messages queued: 33
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 33
+  Messages failed: 0
+  Messages queued: 33
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 34
+  Messages failed: 0
+  Messages queued: 34
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 34
+  Messages failed: 0
+  Messages queued: 34
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 34
+  Messages failed: 0
+  Messages queued: 34
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 35
+  Messages failed: 0
+  Messages queued: 35
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 35
+  Messages failed: 0
+  Messages queued: 35
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 35
+  Messages failed: 0
+  Messages queued: 35
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 36
+  Messages failed: 0
+  Messages queued: 36
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 36
+  Messages failed: 0
+  Messages queued: 36
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 36
+  Messages failed: 0
+  Messages queued: 36
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 37
+  Messages failed: 0
+  Messages queued: 37
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 37
+  Messages failed: 0
+  Messages queued: 37
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 37
+  Messages failed: 0
+  Messages queued: 37
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 38
+  Messages failed: 0
+  Messages queued: 38
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 38
+  Messages failed: 0
+  Messages queued: 38
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 38
+  Messages failed: 0
+  Messages queued: 38
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 39
+  Messages failed: 0
+  Messages queued: 39
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 39
+  Messages failed: 0
+  Messages queued: 39
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 39
+  Messages failed: 0
+  Messages queued: 39
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 40
+  Messages failed: 0
+  Messages queued: 40
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 40
+  Messages failed: 0
+  Messages queued: 40
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 40
+  Messages failed: 0
+  Messages queued: 40
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 41
+  Messages failed: 0
+  Messages queued: 41
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 41
+  Messages failed: 0
+  Messages queued: 41
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 41
+  Messages failed: 0
+  Messages queued: 41
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 42
+  Messages failed: 0
+  Messages queued: 42
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 42
+  Messages failed: 0
+  Messages queued: 42
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 42
+  Messages failed: 0
+  Messages queued: 42
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 43
+  Messages failed: 0
+  Messages queued: 43
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 43
+  Messages failed: 0
+  Messages queued: 43
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 43
+  Messages failed: 0
+  Messages queued: 43
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 44
+  Messages failed: 0
+  Messages queued: 44
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 44
+  Messages failed: 0
+  Messages queued: 44
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 44
+  Messages failed: 0
+  Messages queued: 44
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 45
+  Messages failed: 0
+  Messages queued: 45
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 45
+  Messages failed: 0
+  Messages queued: 45
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 45
+  Messages failed: 0
+  Messages queued: 45
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 46
+  Messages failed: 0
+  Messages queued: 46
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 46
+  Messages failed: 0
+  Messages queued: 46
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 46
+  Messages failed: 0
+  Messages queued: 46
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 47
+  Messages failed: 0
+  Messages queued: 47
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 47
+  Messages failed: 0
+  Messages queued: 47
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 47
+  Messages failed: 0
+  Messages queued: 47
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 48
+  Messages failed: 0
+  Messages queued: 48
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 48
+  Messages failed: 0
+  Messages queued: 48
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 48
+  Messages failed: 0
+  Messages queued: 48
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 49
+  Messages failed: 0
+  Messages queued: 49
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 49
+  Messages failed: 0
+  Messages queued: 49
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 49
+  Messages failed: 0
+  Messages queued: 49
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 50
+  Messages failed: 0
+  Messages queued: 50
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 50
+  Messages failed: 0
+  Messages queued: 50
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 50
+  Messages failed: 0
+  Messages queued: 50
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 51
+  Messages failed: 0
+  Messages queued: 51
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 51
+  Messages failed: 0
+  Messages queued: 51
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 51
+  Messages failed: 0
+  Messages queued: 51
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 52
+  Messages failed: 0
+  Messages queued: 52
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 52
+  Messages failed: 0
+  Messages queued: 52
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 52
+  Messages failed: 0
+  Messages queued: 52
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 53
+  Messages failed: 0
+  Messages queued: 53
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 53
+  Messages failed: 0
+  Messages queued: 53
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 53
+  Messages failed: 0
+  Messages queued: 53
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 54
+  Messages failed: 0
+  Messages queued: 54
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 54
+  Messages failed: 0
+  Messages queued: 54
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 54
+  Messages failed: 0
+  Messages queued: 54
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 55
+  Messages failed: 0
+  Messages queued: 55
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 55
+  Messages failed: 0
+  Messages queued: 55
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 55
+  Messages failed: 0
+  Messages queued: 55
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 56
+  Messages failed: 0
+  Messages queued: 56
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 56
+  Messages failed: 0
+  Messages queued: 56
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 56
+  Messages failed: 0
+  Messages queued: 56
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 57
+  Messages failed: 0
+  Messages queued: 57
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 57
+  Messages failed: 0
+  Messages queued: 57
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 57
+  Messages failed: 0
+  Messages queued: 57
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 58
+  Messages failed: 0
+  Messages queued: 58
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 58
+  Messages failed: 0
+  Messages queued: 58
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 58
+  Messages failed: 0
+  Messages queued: 58
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 59
+  Messages failed: 0
+  Messages queued: 59
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 59
+  Messages failed: 0
+  Messages queued: 59
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 59
+  Messages failed: 0
+  Messages queued: 59
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 60
+  Messages failed: 0
+  Messages queued: 60
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 60
+  Messages failed: 0
+  Messages queued: 60
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 60
+  Messages failed: 0
+  Messages queued: 60
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 61
+  Messages failed: 0
+  Messages queued: 61
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 61
+  Messages failed: 0
+  Messages queued: 61
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 61
+  Messages failed: 0
+  Messages queued: 61
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 62
+  Messages failed: 0
+  Messages queued: 62
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 62
+  Messages failed: 0
+  Messages queued: 62
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 62
+  Messages failed: 0
+  Messages queued: 62
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 63
+  Messages failed: 0
+  Messages queued: 63
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 63
+  Messages failed: 0
+  Messages queued: 63
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 63
+  Messages failed: 0
+  Messages queued: 63
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 64
+  Messages failed: 0
+  Messages queued: 64
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 64
+  Messages failed: 0
+  Messages queued: 64
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 64
+  Messages failed: 0
+  Messages queued: 64
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 65
+  Messages failed: 0
+  Messages queued: 65
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 65
+  Messages failed: 0
+  Messages queued: 65
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 65
+  Messages failed: 0
+  Messages queued: 65
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 66
+  Messages failed: 0
+  Messages queued: 66
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 66
+  Messages failed: 0
+  Messages queued: 66
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 66
+  Messages failed: 0
+  Messages queued: 66
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 67
+  Messages failed: 0
+  Messages queued: 67
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 67
+  Messages failed: 0
+  Messages queued: 67
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 67
+  Messages failed: 0
+  Messages queued: 67
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 68
+  Messages failed: 0
+  Messages queued: 68
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 68
+  Messages failed: 0
+  Messages queued: 68
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 68
+  Messages failed: 0
+  Messages queued: 68
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 69
+  Messages failed: 0
+  Messages queued: 69
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 69
+  Messages failed: 0
+  Messages queued: 69
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 69
+  Messages failed: 0
+  Messages queued: 69
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 70
+  Messages failed: 0
+  Messages queued: 70
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 70
+  Messages failed: 0
+  Messages queued: 70
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 70
+  Messages failed: 0
+  Messages queued: 70
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 71
+  Messages failed: 0
+  Messages queued: 71
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 71
+  Messages failed: 0
+  Messages queued: 71
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 71
+  Messages failed: 0
+  Messages queued: 71
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 72
+  Messages failed: 0
+  Messages queued: 72
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 72
+  Messages failed: 0
+  Messages queued: 72
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 72
+  Messages failed: 0
+  Messages queued: 72
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 73
+  Messages failed: 0
+  Messages queued: 73
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 73
+  Messages failed: 0
+  Messages queued: 73
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 73
+  Messages failed: 0
+  Messages queued: 73
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 74
+  Messages failed: 0
+  Messages queued: 74
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 74
+  Messages failed: 0
+  Messages queued: 74
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 74
+  Messages failed: 0
+  Messages queued: 74
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 75
+  Messages failed: 0
+  Messages queued: 75
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 75
+  Messages failed: 0
+  Messages queued: 75
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 75
+  Messages failed: 0
+  Messages queued: 75
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 76
+  Messages failed: 0
+  Messages queued: 76
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 76
+  Messages failed: 0
+  Messages queued: 76
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 76
+  Messages failed: 0
+  Messages queued: 76
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 77
+  Messages failed: 0
+  Messages queued: 77
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 77
+  Messages failed: 0
+  Messages queued: 77
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 77
+  Messages failed: 0
+  Messages queued: 77
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 78
+  Messages failed: 0
+  Messages queued: 78
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 78
+  Messages failed: 0
+  Messages queued: 78
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 78
+  Messages failed: 0
+  Messages queued: 78
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 79
+  Messages failed: 0
+  Messages queued: 79
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 79
+  Messages failed: 0
+  Messages queued: 79
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 79
+  Messages failed: 0
+  Messages queued: 79
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 80
+  Messages failed: 0
+  Messages queued: 80
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 80
+  Messages failed: 0
+  Messages queued: 80
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 80
+  Messages failed: 0
+  Messages queued: 80
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 81
+  Messages failed: 0
+  Messages queued: 81
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 81
+  Messages failed: 0
+  Messages queued: 81
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 81
+  Messages failed: 0
+  Messages queued: 81
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 82
+  Messages failed: 0
+  Messages queued: 82
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 82
+  Messages failed: 0
+  Messages queued: 82
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 82
+  Messages failed: 0
+  Messages queued: 82
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 83
+  Messages failed: 0
+  Messages queued: 83
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 83
+  Messages failed: 0
+  Messages queued: 83
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 83
+  Messages failed: 0
+  Messages queued: 83
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 84
+  Messages failed: 0
+  Messages queued: 84
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 84
+  Messages failed: 0
+  Messages queued: 84
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 84
+  Messages failed: 0
+  Messages queued: 84
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 85
+  Messages failed: 0
+  Messages queued: 85
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 85
+  Messages failed: 0
+  Messages queued: 85
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 85
+  Messages failed: 0
+  Messages queued: 85
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 86
+  Messages failed: 0
+  Messages queued: 86
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 86
+  Messages failed: 0
+  Messages queued: 86
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 86
+  Messages failed: 0
+  Messages queued: 86
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 87
+  Messages failed: 0
+  Messages queued: 87
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 87
+  Messages failed: 0
+  Messages queued: 87
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 87
+  Messages failed: 0
+  Messages queued: 87
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 88
+  Messages failed: 0
+  Messages queued: 88
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 88
+  Messages failed: 0
+  Messages queued: 88
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 88
+  Messages failed: 0
+  Messages queued: 88
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 89
+  Messages failed: 0
+  Messages queued: 89
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 89
+  Messages failed: 0
+  Messages queued: 89
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 89
+  Messages failed: 0
+  Messages queued: 89
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 90
+  Messages failed: 0
+  Messages queued: 90
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 90
+  Messages failed: 0
+  Messages queued: 90
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 90
+  Messages failed: 0
+  Messages queued: 90
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 91
+  Messages failed: 0
+  Messages queued: 91
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 91
+  Messages failed: 0
+  Messages queued: 91
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 91
+  Messages failed: 0
+  Messages queued: 91
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 92
+  Messages failed: 0
+  Messages queued: 92
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 92
+  Messages failed: 0
+  Messages queued: 92
+  Connected: Yes
+Current detections: 0
+================================
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 92
+  Messages failed: 0
+  Messages queued: 92
+  Connected: Yes
+Current detections: 0
+================================
+Sending CoT message (stub): <?xml version="1.0" encoding="UTF-8"?><event version="2.0" uid="CONSENSUS-DETECTOR-01-heartbeat" typ...
+
+=== Performance Statistics ===
+Detector:
+  Last processing time: 0 μs
+  Total voxels processed: 0
+  Active tracks: 0
+  Clusters found: 0
+ATAK Sender:
+  Messages sent: 93
+  Messages failed: 0
+  Messages queued: 93
+  Connected: Yes
+Current detections: 0
+================================
+
+Received signal 2. Shutting down gracefully...
+
+Shutting down system components...
+Stopped stream processing (stub)
+Stream processing stopped.
+
+Received signal 15. Shutting down gracefully...

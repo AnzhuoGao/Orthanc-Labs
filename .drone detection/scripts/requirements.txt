@@ -1,0 +1,18 @@
+# Core dependencies for visualization scripts
+numpy>=1.21.0
+pyzmq>=22.0.0
+
+# OpenGL visualization (for real-time viewer)
+PyOpenGL>=3.1.5
+PyOpenGL-accelerate>=3.1.5
+
+# Static visualization and analysis
+pyvista>=0.37.0
+scikit-learn>=1.0.0
+
+# Optional dependencies for enhanced features
+matplotlib>=3.5.0
+pillow>=8.0.0
+
+# Development and debugging
+tqdm>=4.62.0 

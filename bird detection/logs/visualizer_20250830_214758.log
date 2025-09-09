@@ -1,0 +1,90 @@
+Starting Orthanc Labs Bird Detection Visualizer...
+==================================================
+Controls:
+  Rotate: Click and drag
+  Zoom: Scroll wheel
+  Reset view: 'r'
+  Adjust threshold: +/-
+  Toggle velocity vectors: 'v'
+  Toggle acceleration vectors: 'a'
+  Toggle camera positions: 'c'
+  Toggle camera FOV: 'g'
+  Quit: 'q' or close window
+Mode: Demo
+==================================================
+Listening for ZMQ data on port 5556...
+View reset
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Threshold updated to: 0.189
+Threshold updated to: 0.041
+Threshold updated to: 0.082
+Threshold updated to: 0.154
+Threshold updated to: 0.204
+Threshold updated to: 0.107
+Threshold updated to: 0.041
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Threshold updated to: 0.084
+Threshold updated to: 0.122
+Threshold updated to: 0.205
+Threshold updated to: 0.305
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Threshold updated to: 0.244
+Threshold updated to: 0.179
+Threshold updated to: 0.151
+Threshold updated to: 0.065
+Threshold updated to: 0.051
+Threshold updated to: 0.035
+Threshold updated to: 0.013
+Threshold updated to: 0.000
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
+Camera CAM_CENTER info displayed - Position: [0, 0, 15], Azimuth: 0.0°, Elevation: -90.0°
